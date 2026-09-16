@@ -7,7 +7,7 @@ Luku MCP server
 <img style="justify-content:center;text-align: center;width: 95px; height: auto;" width="793" height="411" alt="Claude Code" src="https://github.com/user-attachments/assets/abed1a04-d69b-4ab4-a490-d606064df72d" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/luku-logo-dark.png" />
-  <img style="justify-content:center;text-align: center;width: 130px; height: auto;" alt="Luku" src="assets/luku-logo-light.png" />
+  <img style="justify-content:center;text-align: center;width: 230px; height: auto;" alt="Luku" src="assets/luku-logo-light.png" />
 </picture>
 
 </h1>
