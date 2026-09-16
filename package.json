@@ -1,0 +1,31 @@
+{
+  "name": "luku-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Luku, the book tracking app - read and write your library, reading sessions, goals and statistics from Claude Code",
+  "type": "module",
+  "bin": {
+    "luku-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "luku",
+    "books",
+    "reading"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.0",
+    "typescript": "^6.0.3"
+  }
+}
